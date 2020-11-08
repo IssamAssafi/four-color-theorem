@@ -31,3 +31,4 @@ https://en.wikipedia.org/wiki/Graph_%28abstract_data_type%29
 ```
 
 ## Screenshots / Preview
+![](demo/preview.gif)
